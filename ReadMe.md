@@ -37,7 +37,7 @@ Este repositório contém as atividades e desafios realizados durante o bootcamp
 - [ ] Aula sobre o uso do Spring Framework para aumentar a produtividade no desenvolvimento
 - [ ] Desafio: Criar uma aplicação completa utilizando Spring Boot
 
-## 🔥 Desafios Concluídos
+## 🔥 ContaBanco Concluídos
 
 - **Desafio 1**: Nome do desafio
     - Descrição: Explicação breve do que foi feito.
