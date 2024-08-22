@@ -9,7 +9,7 @@ public class ContaTerminal {
 
         // Solicitando e recebendo os dados do usuário
         System.out.print("Por favor, digite o número da Agência: ");
-        String agencia = scanner.nextLine();
+        int agencia = scanner.nextInt();
 
         System.out.print("Por favor, digite o número da Conta: ");
         int numero = scanner.nextInt();
