@@ -25,6 +25,7 @@ public class Contador {
         }
         int contagem = parametroDois - parametroUm;
 
+        // Será feita a contagem dos valores entre os dois parametros (2-5= 3) Logo, será 1, 2, 3.
         for(int i = 1 ; i <= contagem ; i++){
             System.out.println("imprimindo o numero: " + i);
         }
