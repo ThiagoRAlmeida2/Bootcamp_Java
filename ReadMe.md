@@ -14,12 +14,12 @@ Este repositório contém as atividades e desafios realizados durante o bootcamp
 ## 📚 Módulos do Bootcamp
 
 ### 1. Introdução ao Ambiente Java e Projetos Colaborativos
-- [ ] Aula sobre configuração do ambiente de desenvolvimento utilizando IntelliJ e Git/GitHub
-- [ ] Desafio: Configuração do ambiente e primeiros passos com Git
+- [x] Aula sobre configuração do ambiente de desenvolvimento utilizando IntelliJ e Git/GitHub
+- [x] Desafio: Configuração do ambiente e primeiros passos com Git
 
 ### 2. Sintaxe Básica com Java
-- [ ] Aula sobre estrutura e sintaxe básica da linguagem Java
-- [ ] Desafio: Implementar programas simples usando os conceitos básicos de Java
+- [x] Aula sobre estrutura e sintaxe básica da linguagem Java
+- [x] Desafio: Implementar programas simples usando os conceitos básicos de Java
 
 ### 3. Programação Orientada a Objetos (POO) com Java
 - [ ] Aula sobre os princípios da POO (Encapsulamento, Herança, Polimorfismo, Abstração)
@@ -37,15 +37,18 @@ Este repositório contém as atividades e desafios realizados durante o bootcamp
 - [ ] Aula sobre o uso do Spring Framework para aumentar a produtividade no desenvolvimento
 - [ ] Desafio: Criar uma aplicação completa utilizando Spring Boot
 
-## 🔥 ContaBanco Concluídos
+## 🔥 ContaBanco Concluído
 
-- **Desafio 1**: Nome do desafio
-    - Descrição: Explicação breve do que foi feito.
-    - Link para o código: [Desafio 1](./path-to-challenge-1)
+- **Desafio 1**: Banco Pelo terminal
+    - Descrição: Usei o scanner para receber os valores colocado pelo o usuario e assim sendo mostrado depois, dando o retorno dos valores colocados
+    - Link para o código: [Desafio Conta Banco](./src/ContaBanco/ContaTerminal.java)
+  
+## 🔥 Contador Concluído
 
-- **Desafio 2**: Nome do desafio
-    - Descrição: Explicação breve do que foi feito.
-    - Link para o código: [Desafio 2](./path-to-challenge-2)
+- **Desafio 2**: Contador
+    - Descrição: Usando o comandos de repetição (For) para poder fazer a contagem do parametroUm - parametroDois, tambem foi feita uma exeção para caso o parametroUm for maior que o parametroDois.
+    - Link para o código: [Desafio_Contador(Poo)](./src/Contador)
+
 
 ## 🚀 Como Executar os Projetos
 
