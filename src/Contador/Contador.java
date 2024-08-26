@@ -12,6 +12,7 @@ public class Contador {
         System.out.println("Digite o segundo parametro: ");
         int parametroDois = terminal.nextInt();
 
+        // O parametroUm tem que ser menor que o parametroDois
         try{
             contar(parametroUm, parametroDois);
         } catch (ParametrosInvalidosException exception){
