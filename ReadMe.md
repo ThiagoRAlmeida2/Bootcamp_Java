@@ -23,7 +23,7 @@ Este repositório contém as atividades e desafios realizados durante o bootcamp
 
 ### 3. Programação Orientada a Objetos (POO) com Java
 - [x] Aula sobre os princípios da POO (Encapsulamento, Herança, Polimorfismo, Abstração)
-- [ ] Desafio: Implementar classes e objetos utilizando os conceitos de POO
+- [x] Desafio: Implementar classes e objetos utilizando os conceitos de POO
 
 ### 4. Teste e Gerenciamento de Dependências em Projetos Java
 - [ ] Aula sobre como realizar testes unitários e de integração em projetos Java
