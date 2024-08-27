@@ -1,10 +1,11 @@
-package Chat;
+package ChatPoo.app;
 
-public class FacebookMessenger extends ServicoMensagemInstantanea{
+public class FacebookMessenger extends ServicoMensagemInstantanea {
 
 
     @Override
     public void enviarMensagem() {
+        validarConectadoInternet();
         System.out.println("Enviando Mensagem pelo Facebook");
     }
 
