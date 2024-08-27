@@ -49,7 +49,11 @@ Este repositório contém as atividades e desafios realizados durante o bootcamp
     - Descrição: Usando o comandos de repetição (For) para poder fazer a contagem do parametroUm - parametroDois, tambem foi feita uma exeção para caso o parametroUm for maior que o parametroDois.
     - Link para o código: [Desafio_Contador(Poo)](./src/Contador)
 
-
+## 🔥 ChatPoo Concluído
+- **Desafio 3**: ChatPoo
+    - Descrição: Usando os pilares de Poo (Programação Orientada a objeto) fizemos um pequeno chat (Facebook, MSNMessenger e telegram) fazendo heranças, encapsulamento, etc, sendo todos os requisitos sendo chamados na [Classe Main](./src/ChatPoo/Computador.java) 
+    - Link para o codigo: [Desafio_ChatPoo](./src/ChatPoo)
+  
 ## 🚀 Como Executar os Projetos
 
 1. Clone o repositório:
