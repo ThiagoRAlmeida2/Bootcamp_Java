@@ -8,7 +8,6 @@ class Livro implements Comparable<Livro> {
     private String autor;
     private int ano;
 
-    // Construtor
     public Livro(String ti, String au, int an) {
         this.titulo = ti;
         this.autor = au;
@@ -20,7 +19,7 @@ class Livro implements Comparable<Livro> {
         return titulo.compareTo(l.titulo);
     }
 
-    // Métodos getters para acessar os dados privados
+    // Métodos getters
     public String getTitulo() {
         return titulo;
     }
