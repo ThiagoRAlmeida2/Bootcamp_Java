@@ -4,6 +4,7 @@ public class Tarefa {
 
     private String descricao;
     private String titulo;
+    private String nome;
 
     public Tarefa(String descricao) {
         descricao = descricao;
@@ -15,5 +16,9 @@ public class Tarefa {
 
     public String getTitulo(){
         return titulo;
+    }
+
+    public String getNome(){
+        return nome;
     }
 }
