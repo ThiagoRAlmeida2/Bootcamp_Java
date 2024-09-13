@@ -36,6 +36,7 @@ public class ListaTarefa {
     public static void main(String[] args) {
         ListaTarefa listaTarefa = new ListaTarefa();
 
+        System.out.println("Bem vindo a lista de tarefas ");
         listaTarefa.adicionarTarefa("A");
         listaTarefa.adicionarTarefa("B");
         listaTarefa.adicionarTarefa("C");
