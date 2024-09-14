@@ -1,4 +1,4 @@
-package CollectionFrameworkAPI.List;
+package CollectionFrameworkAPI.List.OperaçoesBasicas;
 
 public class Item {
     //atributos

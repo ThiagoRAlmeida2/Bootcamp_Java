@@ -1,4 +1,4 @@
-package CollectionFrameworkAPI.List;
+package CollectionFrameworkAPI.List.OperaçoesBasicas;
 
 import java.util.ArrayList;
 import java.util.List;
