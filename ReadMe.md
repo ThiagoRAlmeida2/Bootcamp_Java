@@ -27,16 +27,16 @@ Este repositório contém as atividades e desafios realizados durante o bootcamp
 - [x] Desafio: Implementar classes e objetos utilizando os conceitos de POO
 
 ### 4. Teste e Gerenciamento de Dependências em Projetos Java
-- [ ] Aula sobre como realizar testes unitários e de integração em projetos Java
-- [ ] Desafio: Criar testes unitários para um projeto existente e gerenciar dependências com Maven
+- [x] Aula sobre como realizar testes unitários e de integração em projetos Java
+- [x] Desafio: Criar testes unitários para um projeto existente e gerenciar dependências com Maven
 
 ### 5. Banco de Dados SQL e NoSQL para Desenvolvedores Back-End
 - [X] Aula sobre integração de Java com bancos de dados SQL e NoSQL
 - [X] Desafio: Implementar CRUD utilizando banco de dados SQL e NoSQL
 
 ### 6. Ganhando Produtividade no Java com Spring Framework
-- [ ] Aula sobre o uso do Spring Framework para aumentar a produtividade no desenvolvimento
-- [ ] Desafio: Criar uma aplicação completa utilizando Spring Boot
+- [x] Aula sobre o uso do Spring Framework para aumentar a produtividade no desenvolvimento
+- [x] Desafio: Criar uma aplicação completa utilizando Spring Boot
 
 ## 🔥 ContaBanco Concluído
 
